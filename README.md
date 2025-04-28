@@ -5,14 +5,14 @@ The visualization highlights how different diet groups, age groups, and genders 
 The aim of the project is to provide an intuitive and insightful view into the environmental footprint of various dietary choices.
 
 Dataset details:
--The dataset Results_21Mar2022.csv includes:
-=Diet Type (Vegan, Vegetarian, Fish-eater, Meat-eater)
--Age Group (18-24, 25-34, etc.)
--Gender (Male, Female, Prefer not to say)
--Mean Biodiversity Impact (species extinction potential)
--Mean Agricultural Water Usage (in cubic meters)
+- The dataset Results_21Mar2022.csv includes:
+- Diet Type (Vegan, Vegetarian, Fish-eater, Meat-eater)
+- Age Group (18-24, 25-34, etc.)
+- Gender (Male, Female, Prefer not to say)
+- Mean Biodiversity Impact (species extinction potential)
+- Mean Agricultural Water Usage (in cubic meters)
 
 Requirements:
-1.Python 3
-2.Pandas
-3.Plotly Express
+1. Python 3
+2. Pandas
+3. Plotly Express
