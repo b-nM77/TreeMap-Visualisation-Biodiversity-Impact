@@ -9,7 +9,6 @@ Dataset details:
 - Diet Type (Vegan, Vegetarian, Fish-eater, Meat-eater)
 - Age Group
 - Gender
-- Mean Biodiversity Impact
 - Mean Agricultural Water Usage
 
 Requirements:
