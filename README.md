@@ -7,10 +7,10 @@ The aim of the project is to provide an intuitive and insightful view into the e
 Dataset details:
 - The dataset Results_21Mar2022.csv includes:
 - Diet Type (Vegan, Vegetarian, Fish-eater, Meat-eater)
-- Age Group (18-24, 25-34, etc.)
-- Gender (Male, Female, Prefer not to say)
-- Mean Biodiversity Impact (species extinction potential)
-- Mean Agricultural Water Usage (in cubic meters)
+- Age Group
+- Gender
+- Mean Biodiversity Impact
+- Mean Agricultural Water Usage
 
 Requirements:
 1. Python 3
