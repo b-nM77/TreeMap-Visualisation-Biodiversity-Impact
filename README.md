@@ -1,2 +1,18 @@
 # TreeMap-Visualisation-Biodiversity-Impact
-This project visualizes the environmental impact of dietary habits, focusing on biodiversity loss and water usage across different diet types, age groups, and genders.Using a hierarchical treemap created with Python and Plotly Express, it highlights hidden patterns and shows the environmental benefits of plant-based diets.
+This project presents an advanced treemap visualization based on environmental impact data from the Oxford University research study on dietary habits.
+The visualization highlights how different diet groups, age groups, and genders contribute to Biodiversity Impact and Agricultural Water Use.
+
+The aim of the project is to provide an intuitive and insightful view into the environmental footprint of various dietary choices.
+
+Dataset details:
+-The dataset Results_21Mar2022.csv includes:
+=Diet Type (Vegan, Vegetarian, Fish-eater, Meat-eater)
+-Age Group (18-24, 25-34, etc.)
+-Gender (Male, Female, Prefer not to say)
+-Mean Biodiversity Impact (species extinction potential)
+-Mean Agricultural Water Usage (in cubic meters)
+
+Requirements:
+1.Python 3
+2.Pandas
+3.Plotly Express
